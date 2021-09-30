@@ -1,0 +1,11 @@
+[core]
+	bare = true
+	repositoryformatversion = 0
+	filemode = false
+	symlinks = false
+	ignorecase = true
+[remote "Origin"]
+	url = https://github.com/duan1998/BeDragon.git
+	fetch = +refs/heads/*:refs/remotes/Origin/*
+	puttykeyfile = C:\\Users\\18139\\.ssh\\PRI.ppk
+	pushurl = https://github.com/duan1998/BeDragon.git

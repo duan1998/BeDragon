@@ -1,0 +1,636 @@
+fileFormatVersion: 2
+guid: 425fbbc6c405f0044a4e09cb645bd552
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6865479695694283173
+    second: g-s08_ground_lbjxw_0
+  - first:
+      213: -7426021813352519174
+    second: g-s08_ground_lbjxw_1
+  - first:
+      213: 4394051505130941247
+    second: g-s08_ground_lbjxw_2
+  - first:
+      213: -7676373618536284891
+    second: g-s08_ground_lbjxw_3
+  - first:
+      213: 6754412004673925062
+    second: g-s08_ground_lbjxw_4
+  - first:
+      213: 5920642536421168139
+    second: g-s08_ground_lbjxw_5
+  - first:
+      213: -1754588802673710370
+    second: g-s08_ground_lbjxw_6
+  - first:
+      213: -7639311676530682620
+    second: g-s08_ground_lbjxw_7
+  - first:
+      213: -5578749618624137530
+    second: g-s08_ground_lbjxw_8
+  - first:
+      213: -8042585977511896609
+    second: g-s08_ground_lbjxw_9
+  - first:
+      213: 8277713494249137886
+    second: g-s08_ground_lbjxw_10
+  - first:
+      213: -4295449744360999358
+    second: g-s08_ground_lbjxw_11
+  - first:
+      213: 237761270100721817
+    second: g-s08_ground_lbjxw_12
+  - first:
+      213: -1163448900927968452
+    second: g-s08_ground_lbjxw_13
+  - first:
+      213: 2067793409472912753
+    second: g-s08_ground_lbjxw_14
+  - first:
+      213: 2552410086177339354
+    second: g-s08_ground_lbjxw_15
+  - first:
+      213: -3970771129845720939
+    second: g-s08_ground_lbjxw_16
+  - first:
+      213: -4994733911236481127
+    second: g-s08_ground_lbjxw_17
+  - first:
+      213: -6892427803445328379
+    second: g-s08_ground_lbjxw_18
+  - first:
+      213: 2396586235799901249
+    second: g-s08_ground_lbjxw_19
+  - first:
+      213: 6812897927043203820
+    second: g-s08_ground_lbjxw_20
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: g-s08_ground_lbjxw_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 712
+        width: 387
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1c38a8865174f50800000000000000
+      internalID: 6865479695694283173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: g-s08_ground_lbjxw_1
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 827
+        width: 125
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af922d8618871f890800000000000000
+      internalID: -7426021813352519174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: g-s08_ground_lbjxw_2
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 731
+        width: 149
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ba910309ecafc30800000000000000
+      internalID: 4394051505130941247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: g-s08_ground_lbjxw_3
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 706
+        width: 267
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52df6f77dda087590800000000000000
+      internalID: -7676373618536284891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: g-s08_ground_lbjxw_4
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 732
+        width: 49
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf293d8eed7cbd50800000000000000
+      internalID: 6754412004673925062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: g-s08_ground_lbjxw_5
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 600
+        width: 117
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04937994095a2250800000000000000
+      internalID: 5920642536421168139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: g-s08_ground_lbjxw_6
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 573
+        width: 60
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda61c9b7c276a7e0800000000000000
+      internalID: -1754588802673710370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: g-s08_ground_lbjxw_7
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 548
+        width: 277
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40515e74186bbf590800000000000000
+      internalID: -7639311676530682620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: g-s08_ground_lbjxw_8
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 413
+        width: 193
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6ff0387cc4492b0800000000000000
+      internalID: -5578749618624137530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: g-s08_ground_lbjxw_9
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 394
+        width: 145
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd99dd63aaef26090800000000000000
+      internalID: -8042585977511896609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: g-s08_ground_lbjxw_10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 475
+        width: 69
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed66d29d09850e270800000000000000
+      internalID: 8277713494249137886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: g-s08_ground_lbjxw_11
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 346
+        width: 57
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246f1dc373f7364c0800000000000000
+      internalID: -4295449744360999358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: g-s08_ground_lbjxw_12
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 347
+        width: 56
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99003bd8d92bc4300800000000000000
+      internalID: 237761270100721817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: g-s08_ground_lbjxw_13
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 444
+        width: 74
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3baed983699adfe0800000000000000
+      internalID: -1163448900927968452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: g-s08_ground_lbjxw_14
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 360
+        width: 181
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17dd688762742bc10800000000000000
+      internalID: 2067793409472912753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: g-s08_ground_lbjxw_15
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 341
+        width: 76
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad779bb337bfb6320800000000000000
+      internalID: 2552410086177339354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: g-s08_ground_lbjxw_16
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 272
+        width: 201
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5985b2902bcf4e8c0800000000000000
+      internalID: -3970771129845720939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: g-s08_ground_lbjxw_17
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 6
+        width: 229
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99fe62198f32faab0800000000000000
+      internalID: -4994733911236481127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: g-s08_ground_lbjxw_18
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 6
+        width: 140
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5068d9f2e6d2950a0800000000000000
+      internalID: -6892427803445328379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: g-s08_ground_lbjxw_19
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 5
+        width: 75
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144917adb72624120800000000000000
+      internalID: 2396586235799901249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: g-s08_ground_lbjxw_20
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 6
+        width: 264
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2c76081964c8e50800000000000000
+      internalID: 6812897927043203820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
